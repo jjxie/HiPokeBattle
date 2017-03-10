@@ -1,6 +1,7 @@
 # PokeBattle
 DH2642 Interaction Programing and Dynamic Web - Project - HTML & Javascript
 =================================================
+Self explore
 
 [Course website](https://www.kth.se/social/course/DH2641).
 
